@@ -37,13 +37,13 @@
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=luvcci&&theme=xcode)](https://github.com/luvcci)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LuvCii&&theme=xcode)](https://github.com/LuvCii)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvcci&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luvcci" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuvCii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LuvCii" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvcci&show_icons=true&locale=en&theme=tokyonight" alt="luvcci" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuvCii&show_icons=true&locale=en&theme=tokyonight" alt="LuvCii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvcci&&theme=tokyonight" alt="luvcci" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuvCii&&theme=tokyonight" alt="LuvCii" /></p>
 
 
 <!---
