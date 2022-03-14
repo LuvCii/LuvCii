@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://minhdung.io)
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
@@ -34,6 +34,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvcci&show_icons=true&locale=en" alt="luvcci" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvcci&" alt="luvcci" /></p>
+
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=luvcci&&theme=xcode)](https://github.com/luvcci)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luvcci&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="luvcci" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luvcci&show_icons=true&locale=en&theme=tokyonight" alt="luvcci" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luvcci&&theme=tokyonight" alt="luvcci" /></p>
 
 
 <!---
