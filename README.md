@@ -5,7 +5,6 @@
 <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 
-<p align="left"> <a href="https://www.facebook.com/minhdung.tran.9237244/" target="blank"><img src="https://img.shields.io/facebook/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
 
