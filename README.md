@@ -4,6 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="MinhDung" /> </p>
+
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
