@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3e/8f/76/3e8f768b92d7556e6d6edf83d4e09c78.gif">
 
 
 
