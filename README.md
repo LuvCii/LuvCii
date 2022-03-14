@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F6tXM&psig=AOvVaw1aHHNLdRk2khjuEzIFhZ4c&ust=1647319620028000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiKtv3lxPYCFQAAAAAdAAAAABAK">
+<img align="right" alt="Coding" width="350" src="https://i.gifer.com/6tXM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luvcci&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
 
