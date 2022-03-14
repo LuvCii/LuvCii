@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://minhdung.io)
+[![MasterHead](https://i.pinimg.com/originals/07/28/a3/0728a35b43209722b892566fa05c0afa.gif)](https://minhdung.io)
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luvcci" alt="luvcci" /></a> </p>
 
-- 🔭 I’m currently working on **F Poly**
+- 🔭 I’m currently working on **FPT Polytechnich**
 
 - 🌱 I’m currently learning **React**
 
