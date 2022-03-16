@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
-<img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
+<img align="right" alt="Coding" width="350"  src="https://i.pinimg.com/originals/85/4f/c1/854fc143b9a24759505e50f74cbc054a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="MinhDung" /> </p>
 
