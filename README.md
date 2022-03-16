@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)](https://minhdung.io)
+[![MasterHead](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)](https://minhdung.io)
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
