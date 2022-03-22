@@ -43,7 +43,7 @@
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=LuvCii&show_icons=true&locale=en" alt="LuvCii" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LuvCii)](https://github.com/LuvCii)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LuvCii&&theme=xcode)](https://github.com/LuvCii)
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuvCii&&theme=tokyonight" alt="LuvCii" /></p>
 
