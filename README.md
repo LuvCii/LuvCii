@@ -39,7 +39,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LuvCii&&theme=xcode)](https://github.com/LuvCii)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuvCii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LuvCii" /></p> <br>
+<p style="margin-top: 20px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuvCii&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LuvCii" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuvCii&show_icons=true&locale=en&theme=tokyonight" alt="LuvCii" /></p>
 
