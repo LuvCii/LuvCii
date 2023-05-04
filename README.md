@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Minh Dung</h1>
 <h3 align="center">i'M a passionate frontend developer from North side</h3>
 
-<img align="right" alt="Coding" width="360"  src="https://i.ibb.co/z48yJGV/image.png">
+<img align="right" alt="Coding" width="360"  src="https://">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Visit%20viewers&color=0e75b6&style=flat" alt="MinhDung" /> </p>
 
 
 
-<!-- <p align="left"> <img src="https://i.ibb.co/b2wX822/image.png/?username=LuvCii&label=Profile%20views&color=0e75b6&style=flat" alt="luvcci" /> </p>
+<!-- <p align="left"> <img src="https://i.ibb.co/b2wX822/image.png/" alt="luvcci" /> </p>
 
 <p align="left"> <a href="https://github.com/LuvCii/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=LuvCii](https://i.ibb.co/b2wX822/image.png)" alt="luvcci" /></a> </p> -->
 
