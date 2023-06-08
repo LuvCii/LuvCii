@@ -8,7 +8,7 @@
 
 
 
-<!-- <p align="left"> <img src="https://i.ibb.co/b2wX822/image.png/" alt="luvcci" /> </p>
+<!-- <p align="left"> <img src="https://i.ibb.co/4JrZw2r/image.png" alt="luvcci" /> </p>
 
 <p align="left"> <a href="https://github.com/LuvCii/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=LuvCii](https://i.ibb.co/b2wX822/image.png)" alt="luvcci" /></a> </p> -->
 
